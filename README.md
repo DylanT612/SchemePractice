@@ -1,1 +1,1 @@
-writing even, odd, and sqaure boolean functions in scheme
+writing even, odd, and square Boolean functions in scheme
